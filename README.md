@@ -1,4 +1,4 @@
-###### EqualExpert Test App
+###### CityBikes Test App
 Project is being set up with Maven using Cucumber BDD and RestAssured as framework. Took the approach of BDD in order to ensure that
  the specifications are testable.
 
