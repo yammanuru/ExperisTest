@@ -1,0 +1,14 @@
+**/.vscode/
+**/.idea/
+**/*.project
+**/*.classpath
+**/*.iml
+**/target/
+**/.settings/
+**/log/
+**/*.log
+**/logs/
+**/out/
+**/build/
+**/.DS_Store
+**/bin/
