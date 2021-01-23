@@ -3,7 +3,8 @@ Project is being set up with Maven using Cucumber BDD and RestAssured as framewo
  the specifications are testable.
 
 ###### Run Instructions:
-Run the tests using CucumberRunner class - /src/test/java/runners/CucumberRunner
+1. Open project with Maven
+2. Run the tests using CucumberRunner class - /src/test/java/runners/CucumberRunner
 
 ###### Reports:
 Test report can be accessed from target/cucumber-reports/cucumber-pretty
